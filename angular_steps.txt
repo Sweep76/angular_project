@@ -1,0 +1,2 @@
+<GENERATE A COMPONENT>
+ng g c header

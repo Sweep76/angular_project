@@ -1,0 +1,18 @@
+- ANGULAR SETUP
+1. npm install -g @angular/cli
+2. cd documents/develop/angular [directory purposes]
+3. ng new foodmine-course
+  >yes
+  >yes
+  >CSS
+  (it will install packages)
+4. cd foodmine-course
+5. ng serve -o  [for running the browser]
+
+fix permission issues at
+https://www.c-sharpcorner.com/article/how-to-fix-ps1-can-not-be-loaded-because-running-scripts-is-disabled-on-this-sys/
+
+
+
+-CHECK ANGULAR VERSION
+>ng version
